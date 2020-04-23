@@ -80,4 +80,19 @@
 }
 
 
+- (void)saveHtml:(NSString *)html{
+    
+    /** html */
+    
+    /** css */
+    /** js */
+    /** image */
+    
+    
+    
+}
+
+
+
+
 @end

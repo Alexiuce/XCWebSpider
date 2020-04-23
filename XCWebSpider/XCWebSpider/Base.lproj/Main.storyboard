@@ -693,7 +693,7 @@
                         <rect key="screenRect" x="0.0" y="0.0" width="1680" height="1050"/>
                         <toolbar key="toolbar" implicitIdentifier="EEBFB8BF-0CB9-4FCC-96FB-BD3F07C927EF" autosavesConfiguration="NO" allowsUserCustomization="NO" displayMode="iconAndLabel" sizeMode="regular" id="yz6-Wi-nyD">
                             <allowedToolbarItems>
-                                <toolbarItem implicitItemIdentifier="FBBF5262-9398-4A7E-9029-23233AE69938" label="Toolbar Item" paletteLabel="Toolbar Item" tag="-1" image="NSAdvanced" id="wka-Qa-H3g">
+                                <toolbarItem implicitItemIdentifier="FBBF5262-9398-4A7E-9029-23233AE69938" label="文档" paletteLabel="Toolbar Item" tag="-1" image="folder-config" id="wka-Qa-H3g">
                                     <size key="minSize" width="32" height="32"/>
                                     <size key="maxSize" width="32" height="32"/>
                                 </toolbarItem>
@@ -701,11 +701,11 @@
                                 <toolbarItem implicitItemIdentifier="NSToolbarPrintItem" id="K6b-UC-7Ia"/>
                                 <toolbarItem implicitItemIdentifier="NSToolbarSpaceItem" id="QvV-1c-7Te"/>
                                 <toolbarItem implicitItemIdentifier="NSToolbarFlexibleSpaceItem" id="YTn-ZJ-gAH"/>
-                                <toolbarItem implicitItemIdentifier="9F4ABDD7-B577-4A70-A0C0-09A88F25E5D1" label="Toolbar Item" paletteLabel="Toolbar Item" tag="-1" image="NSCaution" id="Yge-5b-p7d">
+                                <toolbarItem implicitItemIdentifier="9F4ABDD7-B577-4A70-A0C0-09A88F25E5D1" label="Toolbar Item" paletteLabel="Toolbar Item" tag="-1" image="xinlijiankang_" id="Yge-5b-p7d">
                                     <size key="minSize" width="32" height="32"/>
                                     <size key="maxSize" width="32" height="32"/>
                                 </toolbarItem>
-                                <toolbarItem implicitItemIdentifier="7D0C18B0-8A2A-46A6-B4F6-754B05351BCB" label="Toolbar Item" paletteLabel="Toolbar Item" tag="-1" image="NSFolder" id="ZvQ-Ue-v9A">
+                                <toolbarItem implicitItemIdentifier="7D0C18B0-8A2A-46A6-B4F6-754B05351BCB" label="设置" paletteLabel="Toolbar Item" tag="-1" image="sysconfig_app" id="ZvQ-Ue-v9A">
                                     <size key="minSize" width="32" height="32"/>
                                     <size key="maxSize" width="32" height="32"/>
                                 </toolbarItem>
@@ -806,9 +806,9 @@
         </scene>
     </scenes>
     <resources>
-        <image name="NSAdvanced" width="32" height="32"/>
-        <image name="NSCaution" width="32" height="32"/>
-        <image name="NSFolder" width="32" height="32"/>
+        <image name="folder-config" width="128" height="128"/>
+        <image name="sysconfig_app" width="64" height="64"/>
+        <image name="xinlijiankang_" width="64" height="64"/>
         <namedColor name="whiteColor">
             <color red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
